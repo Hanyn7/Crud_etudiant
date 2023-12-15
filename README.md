@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+- Dans cette projet il y a la liste des etudiants , filtre avec le date de naissance , ajout etudiant , delete etudiant , update etudiant , recherche etudiant .
+  pour chaque etudiant il ya la liste des matieres aussi et en peut faire le crud sur cette liste aussi  
